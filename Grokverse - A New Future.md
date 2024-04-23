@@ -513,12 +513,10 @@ Upon submission of data for encryption, users receive a unique Non-Fungible Toke
 Our app provides a comprehensive solution for safeguarding sensitive data, addressing the unique challenges of AI training and code confidentiality protection. Stay tuned for updates on our progress and additional features.
 
 # **5. References:**
-[https://arxiv.org/pdf/2403.08299.pdf](https://arxiv.org/pdf/2403.08299.pdf)
 
+**https://arxiv.org/pdf/2403.08299.pdf**
 **https://arxiv.org/pdf/2403.14592.pdf**
-
-**[https://arxiv.org/pdf/2401.10739.pdf](https://arxiv.org/pdf/2401.10739.pdf)**
-
+**https://arxiv.org/pdf/2401.10739.pdf**
 **https://alexcheema.github.io/AIxCryptoPrimer.pdf**
-[https://cursor.sh/](https://cursor.sh/)
-****[https://x.ai/blog/grok](https://x.ai/blog/grok)
+**https://cursor.sh/**
+**https://x.ai/blog/grok**
