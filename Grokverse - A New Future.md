@@ -515,10 +515,10 @@ Our app provides a comprehensive solution for safeguarding sensitive data, addre
 # **5. References:**
 
 
-https://arxiv.org/pdf/2403.08299.pdf\
-https://arxiv.org/pdf/2403.14592.pdf\
-https://arxiv.org/pdf/2401.10739.pdf\
-https://alexcheema.github.io/AIxCryptoPrimer.pdf\
-https://cursor.sh/\
-https://x.ai/blog/grok\
+https://arxiv.org/pdf/2403.08299.pdf <br />
+https://arxiv.org/pdf/2403.14592.pdf <br />
+https://arxiv.org/pdf/2401.10739.pdf <br />
+https://alexcheema.github.io/AIxCryptoPrimer.pdf <br />
+https://cursor.sh/ <br />
+https://x.ai/blog/grok <br />
 
