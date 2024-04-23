@@ -515,10 +515,9 @@ Our app provides a comprehensive solution for safeguarding sensitive data, addre
 # **5. References:**
 
 
-https://arxiv.org/pdf/2403.08299.pdf <br />
-https://arxiv.org/pdf/2403.14592.pdf <br />
-https://arxiv.org/pdf/2401.10739.pdf <br />
-https://alexcheema.github.io/AIxCryptoPrimer.pdf <br />
-https://cursor.sh/ <br />
-https://x.ai/blog/grok <br />
+https://arxiv.org/pdf/2403.08299.pdf - AutoDev: Automated AI-Driven Development <br />
+https://arxiv.org/pdf/2403.14592.pdf - Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals <br />
+https://arxiv.org/pdf/2401.10739.pdf - In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review <br />
+https://alexcheema.github.io/AIxCryptoPrimer.pdf - AI x Crypto Primer <br />
+https://x.ai/blog/grok - Grok from xAI <br />
 
